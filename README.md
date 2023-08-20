@@ -22,18 +22,42 @@ Responsive Web Developer Path is designed for you to practice HTML, CSS, and bas
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Tribute Page                         | Beginner       | HTML, CSS                     | `In Progress` 
-| Survey Form                          | Beginner       | HTML, CSS, JavaScript         | `In Progress`
-
+| Simple Card Component                        | Beginner       | HTML, CSS         | `In Progress` 
+| Simple Homepage                              | Beginner       | HTML, CSS         | `In Progress`
+| Survey Form                                  | Beginner       | HTML, CSS         | `In Progress`
+| About Page                                   | Beginner       | HTML, CSS         | `In Progress`
+| Blog Page                                    | Beginner       | HTML, CSS         | `In Progress`
+| Portfolio Webpage                            | Beginner       | HTML, CSS         | `In Progress`
+| E-commerce Listing Page                      | Beginner       | HTML, CSS         | `In Progress`
+| Advanced homepage                            | Beginner       | HTML, CSS, JS     | `In Progress`
+| Pricing Page                                 | Beginner       | HTML, CSS         | `In Progress`
+| Testimonials Page                            | Beginner       | HTML, CSS         | `In Progress`
+| eBook Landing Page                           | Beginner       | HTML, CSS         | `In Progress`
+| Login Form                                   | Beginner       | HTML, CSS, JS     | `In Progress`
+| Responsive Navigation                        | Beginner       | HTML, CSS, JS     | `In Progress`
+| Responsive Dashboard                         | Beginner       | HTML, CSS, JS     | `In Progress`
+| Light/Dark Theme Homepage                    | Beginner       | HTML, CSS, JS     | `In Progress`
+| Music Player                                 | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
 
 #### JavaScript Developer Path
 
-JavaScript Developer Path is designed for you to practice JavaScript and strengthen HTML, and CSS skills. In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the basics of JavaScipt like Document Object Model (DOM), Events, and Fetch API,...
+JavaScript Developer Path is designed for you to practice JavaScript and strengthen HTML, and CSS skills. In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,...
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Tribute Page                         | Beginner       | JavaScript                    | `In Progress` 
-| Survey Form                          | Beginner       | JavaScript, HTML, CSS         | `In Progress`
+| Multi Step Form                        | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Guess The Word                         | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Gradient generator                     | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Text to Speech                         | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Github Profile                         | Beginner       | JavaScript, API, HTML, CSS                | `In Progress` 
+| Movie Search App                       | Beginner       | JavaScript, API, HTML, CSS                | `In Progress` 
+| Random Quote                           | Beginner       | HTML, CSS                     | `In Progress` 
+| Recipe App                             | Beginner       | HTML, CSS                     | `In Progress` 
+| Password Check                         | Beginner       | HTML, CSS                     | `In Progress` 
+| Check system battery                   | Beginner       | HTML, CSS                     | `In Progress` 
+| QA code generater                      | Beginner       | HTML, CSS                     | `In Progress` 
+| Spin the wheel guesser                 | Beginner       | HTML, CSS                     | `In Progress` 
+| Dictionary App                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
 
 
 #### Frontend Developer Path
@@ -42,7 +66,20 @@ Frontend Developer Path is the place where you practice popular frameworks that 
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Tribute Page                         | Beginner       | HTML, CSS                     | `In Progress` 
+| Budget App                          | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Weather App                         | Beginner       | React/Vue/Svelte,...          | `In Progress` 
+| Movie Listing                       | Beginner       | HTML, CSS                     | `In Progress` 
+| Stock Tracker App                   | Beginner       | HTML, CSS                     | `In Progress` 
+| Github History                      | Beginner       | HTML, CSS                     | `In Progress` 
+| Translate App                       | Beginner       | HTML, CSS                     | `In Progress` 
+| Pixel Draer                         | Beginner       | HTML, CSS                     | `In Progress` 
+| ChatGPT Bot                         | Beginner       | HTML, CSS                     | `In Progress` 
+| Currency Converter                  | Beginner       | HTML, CSS                     | `In Progress` 
+| Property Listing page with filters  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Quizz App                           | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Calendar/Event App                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Task manager                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Codepen clone                          | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
 
 #### Backend Developer Path
 
@@ -50,7 +87,7 @@ In Backend Developer Path, you are provided a Frontend starter, you are expected
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Tribute Page                         | Beginner       | HTML, CSS                     | `In Progress` 
+| TBA                         | Beginner       | HTML, CSS                     | `In Progress` 
 
 ### Getting Started
 
