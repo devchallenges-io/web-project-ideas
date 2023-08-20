@@ -58,6 +58,8 @@ JavaScript Developer Path is designed for you to practice JavaScript and strengt
 | QA code generater                      | Beginner       | HTML, CSS                     | `In Progress` 
 | Spin the wheel guesser                 | Beginner       | HTML, CSS                     | `In Progress` 
 | Dictionary App                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Flip a coin Game                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Snake Game                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
 
 
 #### Frontend Developer Path
