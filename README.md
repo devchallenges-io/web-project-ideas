@@ -1,4 +1,4 @@
-# web-project-ideas
+# Web Project Ideas | DevChallenges.io
 Web developer real-life projects ideas | devchallenges.io project descriptions and user stories.
 
 ## Web Development Project Ideas
