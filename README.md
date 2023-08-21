@@ -24,16 +24,16 @@ Responsive Web Developer Path is designed for you to practice HTML, CSS, and bas
 | --- | --- | --- | --- |
 | Simple Card Component                        | Beginner       | HTML, CSS                       | `In Progress` 
 | Simple Homepage                              | Beginner       | HTML, CSS                       | `In Progress`
-| Survey Form                                  | Beginner       | HTML, CSS                       | `In Progress`
+| Login Form                                   | Beginner       | HTML, CSS, JS                   | `In Progress`
 | About Page                                   | Beginner       | HTML, CSS                       | `In Progress`
 | Blog Page                                    | Beginner       | HTML, CSS                       | `In Progress`
 | Portfolio Webpage                            | Junior         | HTML, CSS                       | `In Progress`
 | E-commerce Listing Page                      | Junior         | HTML, CSS                       | `In Progress`
 | Advanced Homepage                            | Junior         | HTML, CSS, JS                   | 
 | Pricing Page                                 | Beginner       | HTML, CSS                       | 
+| Survey Form                                  | Beginner       | HTML, CSS                       | 
 | Testimonials Page                            | Beginner       | HTML, CSS                       | 
 | eBook Landing Page                           | Junior         | HTML, CSS                       | 
-| Login Form                                   | Beginner       | HTML, CSS, JS                   | 
 | Responsive Navigation                        | Beginner       | HTML, CSS, JS                   | 
 | Responsive Dashboard                         | Beginner       | HTML, CSS, JS                   | 
 | Light/Dark Theme Homepage                    | Junior         | HTML, CSS, JS                   | 
@@ -60,6 +60,8 @@ JavaScript Developer Path is designed for you to practice JavaScript and strengt
 | Dictionary App                         | Mid-level        | JavaScript, HTML, CSS               |  
 | Flip a coin Game                       | Mid-level        | JavaScript, API, HTML, CSS          | 
 | Snake Game                             | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Image Editor                           |Junior            | JavaScript, HTML, CSS          | 
+| Product Selector                           |Junior            | JavaScript, HTML, CSS          | 
 
 
 #### Frontend Developer Path
