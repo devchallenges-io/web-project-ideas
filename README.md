@@ -22,22 +22,22 @@ Responsive Web Developer Path is designed for you to practice HTML, CSS, and bas
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Simple Card Component                        | Beginner       | HTML, CSS         | `In Progress` 
-| Simple Homepage                              | Beginner       | HTML, CSS         | `In Progress`
-| Survey Form                                  | Beginner       | HTML, CSS         | `In Progress`
-| About Page                                   | Beginner       | HTML, CSS         | `In Progress`
-| Blog Page                                    | Beginner       | HTML, CSS         | `In Progress`
-| Portfolio Webpage                            | Beginner       | HTML, CSS         | `In Progress`
-| E-commerce Listing Page                      | Beginner       | HTML, CSS         | `In Progress`
-| Advanced homepage                            | Beginner       | HTML, CSS, JS     | `In Progress`
-| Pricing Page                                 | Beginner       | HTML, CSS         | `In Progress`
-| Testimonials Page                            | Beginner       | HTML, CSS         | `In Progress`
-| eBook Landing Page                           | Beginner       | HTML, CSS         | `In Progress`
-| Login Form                                   | Beginner       | HTML, CSS, JS     | `In Progress`
-| Responsive Navigation                        | Beginner       | HTML, CSS, JS     | `In Progress`
-| Responsive Dashboard                         | Beginner       | HTML, CSS, JS     | `In Progress`
-| Light/Dark Theme Homepage                    | Beginner       | HTML, CSS, JS     | `In Progress`
-| Music Player                                 | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Simple Card Component                        | Beginner       | HTML, CSS                       | `In Progress` 
+| Simple Homepage                              | Beginner       | HTML, CSS                       | `In Progress`
+| Survey Form                                  | Beginner       | HTML, CSS                       | `In Progress`
+| About Page                                   | Beginner       | HTML, CSS                       | `In Progress`
+| Blog Page                                    | Beginner       | HTML, CSS                       | `In Progress`
+| Portfolio Webpage                            | Junior         | HTML, CSS                       | `In Progress`
+| E-commerce Listing Page                      | Junior         | HTML, CSS                       | `In Progress`
+| Advanced Homepage                            | Junior         | HTML, CSS, JS                   | 
+| Pricing Page                                 | Beginner       | HTML, CSS                       | 
+| Testimonials Page                            | Beginner       | HTML, CSS                       | 
+| eBook Landing Page                           | Junior         | HTML, CSS                       | 
+| Login Form                                   | Beginner       | HTML, CSS, JS                   | 
+| Responsive Navigation                        | Beginner       | HTML, CSS, JS                   | 
+| Responsive Dashboard                         | Beginner       | HTML, CSS, JS                   | 
+| Light/Dark Theme Homepage                    | Junior         | HTML, CSS, JS                   | 
+| Music Player                                 | Junior         | HTML, CSS, JavaScript           |  
 
 #### JavaScript Developer Path
 
@@ -45,21 +45,21 @@ JavaScript Developer Path is designed for you to practice JavaScript and strengt
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Multi Step Form                        | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
-| Guess The Word                         | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
-| Gradient generator                     | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
-| Text to Speech                         | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
-| Github Profile                         | Beginner       | JavaScript, API, HTML, CSS                | `In Progress` 
-| Movie Search App                       | Beginner       | JavaScript, API, HTML, CSS                | `In Progress` 
-| Random Quote                           | Beginner       | HTML, CSS                     | `In Progress` 
-| Recipe App                             | Beginner       | HTML, CSS                     | `In Progress` 
-| Password Check                         | Beginner       | HTML, CSS                     | `In Progress` 
-| Check system battery                   | Beginner       | HTML, CSS                     | `In Progress` 
-| QA code generater                      | Beginner       | HTML, CSS                     | `In Progress` 
-| Spin the wheel guesser                 | Beginner       | HTML, CSS                     | `In Progress` 
-| Dictionary App                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Flip a coin Game                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Snake Game                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
+| Multi Step Form                        | Junior           | JavaScript, HTML, CSS               |  `In Progress`
+| Guess The Word                         | Mid-level        | JavaScript, HTML, CSS               | 
+| Gradient generator                     | Junior           | JavaScript, HTML, CSS               | 
+| Text to Speech                         | Junior           | JavaScript, HTML, CSS               | 
+| GitHub Profile                         | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Movie Search App                       | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Random Quote                           | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Recipe App                             | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Password Check                         | Mid-level        | JavaScript, HTML, CSS               | 
+| Check system battery                   | Mid-level        | JavaScript, HTML, CSS               | 
+| QA code generator                      | Mid-level        | JavaScript, HTML, CSS               | 
+| Spin the wheel guesser                 | Mid-level        | JavaScript, HTML, CSS               | 
+| Dictionary App                         | Mid-level        | JavaScript, HTML, CSS               |  
+| Flip a coin Game                       | Mid-level        | JavaScript, API, HTML, CSS          | 
+| Snake Game                             | Mid-level        | JavaScript, API, HTML, CSS          | 
 
 
 #### Frontend Developer Path
@@ -68,20 +68,20 @@ Frontend Developer Path is the place where you practice popular frameworks that 
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Budget App                          | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
-| Weather App                         | Beginner       | React/Vue/Svelte,...          | `In Progress` 
-| Movie Listing                       | Beginner       | HTML, CSS                     | `In Progress` 
-| Stock Tracker App                   | Beginner       | HTML, CSS                     | `In Progress` 
-| Github History                      | Beginner       | HTML, CSS                     | `In Progress` 
-| Translate App                       | Beginner       | HTML, CSS                     | `In Progress` 
-| Pixel Draer                         | Beginner       | HTML, CSS                     | `In Progress` 
-| ChatGPT Bot                         | Beginner       | HTML, CSS                     | `In Progress` 
-| Currency Converter                  | Beginner       | HTML, CSS                     | `In Progress` 
-| Property Listing page with filters  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Quizz App                           | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Calendar/Event App                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Task manager                  | Beginner    | JavaScript, HTML, CSS            | `In Progress` 
-| Codepen clone                          | Beginner       | JavaScript, HTML, CSS                | `In Progress` 
+| Budget App                          | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Weather App                         | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Movie Listing                       | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Stock Tracker App                   | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Github History                      | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Translate App                       | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Pixel Draer                         | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| ChatGPT Bot                         | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Currency Converter                  | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Property Listing page with filters  | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Quizz App                           | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Calendar/Event App                  | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Task manager                        | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
+| Codepen clone                       | Upper-mid       | React/Vue/Svelte,...                | `In Progress` 
 
 #### Backend Developer Path
 
@@ -90,6 +90,16 @@ In Backend Developer Path, you are provided a Frontend starter, you are expected
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | TBA                         | Beginner       | HTML, CSS                     | `In Progress` 
+
+#### Fullstack Path
+
+In Backend Developer Path, you are provided a Frontend starter, you are expected to implement backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, or Firebase to speed up.
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| User management                         | Beginner       | HTML, CSS                     | `In Progress` 
+| Slack clone                             | Beginner       | HTML, CSS                     | `In Progress` 
+| User management                         | Beginner       | HTML, CSS                     | `In Progress` 
 
 ### Getting Started
 
