@@ -1,0 +1,24 @@
+{
+    "title": "Process Page",
+    "description": "This challenge is to practice responsive design with HTML and CSS skills. The challenge is to create a process page that challenges you to work with different break-points.",
+    "userStories": [
+        {
+            "content": "Create a process page that matches the given design."
+        },
+        {
+            "content": "Use HTML to create basic structure."
+        },
+        {
+            "content": "Add heading, descriptions, iconsm,.. according to the design."
+        },
+        {
+            "content": "Add dashed lines to seperate different sections."
+        },
+        {
+            "content": "Use CSS to style the card."
+        },
+        {
+            "content": "The page should be responsive on different screen sizes."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Process Page",
+    "description": "This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements",
+    "userStories": [
+        {
+            "content": "Create a FAQ page that matches the given design."
+        },
+        {
+            "content": "Use HTML to create basic structure."
+        },
+        {
+            "content": "Add logo, heading, description, links, buttons,.. according to the design."
+        },
+        {
+            "content": "User should be able to toggle between light and dark mode (light as default)."
+        },
+        {
+            "content": "Use CSS or CSS frameworks to style the card."
+        },
+        {
+            "content": "The page should be responsive on different screen sizes."
+        },
+        {
+            "content": "On mobile, users should be able to toggle side navigation."
+        }
+    ]
+}
