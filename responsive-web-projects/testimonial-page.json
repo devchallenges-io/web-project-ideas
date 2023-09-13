@@ -3,7 +3,7 @@
     "description": "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that challenges you to use grid, media queries, icons,...",
     "userStories": [
         {
-            "content": "Create a reviewer page that matches the given design."
+            "content": "Create a testimonial page that matches the given design."
         },
         {
             "content": "Use HTML to create basic structure."

@@ -1,9 +1,9 @@
 {
-    "title": "Process Page",
+    "title": "Simple Homepage - Alarada",
     "description": "This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements",
     "userStories": [
         {
-            "content": "Create a FAQ page that matches the given design."
+            "content": "Create a simple homepage page that matches the given design."
         },
         {
             "content": "Use HTML to create basic structure."
