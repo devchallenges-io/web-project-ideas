@@ -6,13 +6,13 @@
             "content": "Create a process page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
-            "content": "Add heading, descriptions, iconsm,.. according to the design."
+            "content": "Add heading, descriptions, icons,.. according to the design."
         },
         {
-            "content": "Add dashed lines to seperate different sections."
+            "content": "Add dashed lines to separate different sections."
         },
         {
             "content": "Use CSS to style the card."
