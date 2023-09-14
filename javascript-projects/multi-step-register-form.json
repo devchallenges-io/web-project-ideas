@@ -1,12 +1,12 @@
 {
     "title": "Multi-step Register Form",
-    "description": "This challenge is great to start practicing your JavaScript skills. The challenge is to create a 3-steps registration form with different sections that tests your JavaScript skill.",
+    "description": "This challenge is great for practicing your JavaScript skills. The challenge is to create a 3-step registration form with different sections that tests your JavaScript skill.",
     "userStories": [
         {
             "content": "Create a multi-step registration page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add form, inputs, buttons, stepper,... according to the design."
@@ -18,13 +18,13 @@
             "content": "Use JavaScript to add interactivity."
         },
         {
-            "content": "Users should not be able to continue to next step if inputs are empty or topic is not selected."
+            "content": "Users should not be able to continue to the next step if inputs are empty or the topic is not selected."
         },
         {
-            "content": "Users should be able to continue to next step if inputs are filled or topic is selected."
+            "content": "Users should be able to continue to the next step if inputs are filled or topic is selected."
         },
         {
-            "content": "Users should be able to know which step that they are at."
+            "content": "Users should be able to know which step they are at."
         },
         {
             "content": "When users click confirm, they should see an alert with '✅ Success' message."
