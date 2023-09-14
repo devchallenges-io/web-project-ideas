@@ -1,12 +1,12 @@
 {
     "title": "Music Player",
-    "description": "This challenge is great to practice your JavaScript skills. The challenge is to create a simple music player app that test your data management with JavaScript.",
+    "description": "This challenge is great to practice your JavaScript skills. The challenge is to create a simple music player app that tests your data management with JavaScript.",
     "userStories": [
         {
             "content": "Create a music player app that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add image, title, author, progress bar, player button,... according to the design."
