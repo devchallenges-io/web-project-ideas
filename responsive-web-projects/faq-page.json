@@ -6,7 +6,7 @@
             "content": "Create a FAQ page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add heading, description, tabs, accordions,.. according to the design."
@@ -15,7 +15,7 @@
             "content": "User should be able to select different tabs."
         },
         {
-            "content": "User should be table to toggle accordions open and close. The content of each accordion is up to you but 2 accordions should be open default, same as in design."
+            "content": "User should be able to toggle accordions open and close. The content of each accordion is up to you but 2 accordions should be open default, same as in design."
         },
         {
             "content": "Use CSS or CSS frameworks to style the card."
