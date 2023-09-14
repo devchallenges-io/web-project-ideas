@@ -1,12 +1,12 @@
 {
     "title": "Portfolio Page",
-    "description": "This challenge is to test your skills with more complex layout. The challenge is to create a portfolio page that you will need to practice using grid, flexbox, media queries,..",
+    "description": "This challenge is to test your skills with a more complex layout. The challenge is to create a portfolio page that you will need to practice using grid, flexbox, media queries,..",
     "userStories": [
         {
             "content": "Create a portfolio page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add heading, descriptions, images, sections,.. according to the design."
