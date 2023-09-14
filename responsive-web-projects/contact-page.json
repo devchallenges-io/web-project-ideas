@@ -6,7 +6,7 @@
             "content": "Create a contact page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add icon, heading, description, form, input, dropdown, button,.. according to the design."
@@ -15,7 +15,7 @@
             "content": "Inputs should have placeholders."
         },
         {
-            "content": "Dropdown should have at lease 2 options, it's up to you which more options to add but the default must be same as in the design."
+            "content": "Dropdown should have at least 2 options, it's up to you which more options to add but the default must be same as in the design."
         },
         {
             "content": "Use CSS or CSS frameworks to style the card."
