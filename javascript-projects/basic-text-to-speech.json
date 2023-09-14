@@ -1,12 +1,12 @@
 {
     "title": "Text to Speech - Speechbot",
-    "description": "This challenge is a great for you to work advanced built-in JavaScript functionality. The challenge is to create a simple tech to speech application that requires you to work with advanced JavaScript functionalities.",
+    "description": "This challenge is great for you to work with advanced built-in JavaScript functionality. The challenge is to create a simple tech to speech application that requires you to work with advanced JavaScript functionalities.",
     "userStories": [
         {
-            "content": "Create a text to speech app that matches the given design."
+            "content": "Create a text-to-speech app that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add inputs, tabs, buttons,.. according to the design."
