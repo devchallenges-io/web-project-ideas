@@ -6,7 +6,7 @@
             "content": "Create a movie search app that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add inputs, images, details tags,.. according to the design."
@@ -18,7 +18,7 @@
             "content": "Users should be able to enter a movie name in search input."
         },
         {
-            "content": "After search input is filled and user press enter, user should see a movie or 'Movie not found' text if there is no movie matched the searched text."
+            "content": "After search input is filled and users press enter, users should see a movie or 'Movie not found' text if there is no movie matched the searched text."
         },
         {
             "content": "The page should be responsive on different screen sizes."
