@@ -1,12 +1,12 @@
 {
     "title": "Advanced Homepage - Huffie",
-    "description": "This challenge will put your HTML and CSS skills to test. The challenge is to create a more complex homepage with different sections that you will have to use all HTML, CSS skills",
+    "description": "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections that you will have to use all HTML, CSS skills",
     "userStories": [
         {
             "content": "Create a testimonial page that matches the given design."
         },
         {
-            "content": "Use HTML to create basic structure."
+            "content": "Use HTML to create the basic structure."
         },
         {
             "content": "Add logo, title, descriptions, buttons, images,... according to the design."
