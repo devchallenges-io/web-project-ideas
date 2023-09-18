@@ -2,21 +2,21 @@
     {
         "name": "Responsive Web Developer",
         "dcid": 1,
-        "description": "Responsive Web Developer Path is designed for you to practice HTML, CSS, and basic JavaScript. You can practice with frameworks like Tailwind CSS, Bootstrap,... based on your need."
+        "description": "This path is designed for you to practice HTML, CSS, and basic JavaScript. You can practice with frameworks like Tailwind CSS, Bootstrap,... based on your need."
     },
     {
         "name": "JavaScript Developer",
         "dcid": 2,
-        "description": "JavaScript Developer Path is designed for you to practice JavaScript and strengthen HTML, and CSS skills. In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,..."
+        "description": "In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,..."
     },
     {
         "name": "Frontend Developer",
         "dcid": 3,
-        "description": "Frontend Developer Path is the place where you practice popular frameworks that are required in almost every Frontend job like React, Vue.js, and Svelte,..."
+        "description": "This path is the place where you practice popular frameworks that are required in almost every Frontend job like React, Vue.js, and Svelte,..."
     },
     {
         "name": "Fullstack Developer",
         "dcid": 4,
-        "description": "In Backend Developer Path, you are provided a Frontend starter, you are expected to implement backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, or Firebase to speed up."
+        "description": "In this path, you are expected to implement your own backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, Firebase,.. to speed up."
     }
 ]
