@@ -85,14 +85,6 @@ Frontend Developer Path is the place where you practice popular frameworks that 
 | Task manager                        | Upper-mid       | React/Vue/Svelte,...                | 
 | Codepen clone                       | Upper-mid       | React/Vue/Svelte,...                | 
 
-#### Backend Developer Path
-
-In Backend Developer Path, you are provided a Frontend starter, you are expected to implement backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, or Firebase to speed up.
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| TBA                         | TBA       | TBA                     | `In Progress` 
-
 #### Fullstack Path
 
 In Backend Developer Path, you are provided a Frontend starter, you are expected to implement backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, or Firebase to speed up.
