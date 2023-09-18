@@ -8,17 +8,17 @@ These projects are designed to help you practice your Web development skills and
 
 ### Project Ideas
 
-All projects are divided in:
+All projects are divided into:
 - **5 levels**: Beginner, Junior, Mid-level, Upper-mid, Senior
 - **Different paths**: e.g. Responsive Web Developer, JavaScript Developer, Frontend Developer,...
 
-Each project is designed to practice a recommended tech stack, but you are free to choose to work with anything. 
+Each project is designed to practice a recommended tech stack, but you can choose to work with anything. 
 
-**Link/Status**: If the project is ready in devchallenges.io, you should see a link to the project with designs, and resources to help you get started. Otherwise, `In Progress` means the project is being designed, empty means it has not been started.
+**Link/Status**: If the project is ready in devchallenges.io, you should see a link to the project with designs, and resources to help you get started. Otherwise, `In Progress` means the project is being designed, empty means it has not been created.
 
 #### Responsive Web Developer Path
 
-Responsive Web Developer Path is designed for you to practice HTML, CSS, and basic JavaScript. Once you are comfortable with these 3, you can practice with frameworks like Tailwind CSS, Bootstrap,... based on your need.
+This path is designed for you to practice HTML, CSS, and basic JavaScript. You can practice with frameworks like Tailwind CSS, Bootstrap,... based on your needs.
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Responsive Web Developer Path is designed for you to practice HTML, CSS, and bas
 
 #### JavaScript Developer Path
 
-JavaScript Developer Path is designed for you to practice JavaScript and strengthen HTML, and CSS skills. In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,...
+In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,..
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ JavaScript Developer Path is designed for you to practice JavaScript and strengt
 
 #### Frontend Developer Path
 
-Frontend Developer Path is the place where you practice popular frameworks that are required in almost every Frontend job like React, Vue.js, and Svelte,...
+This path is the place where you practice popular frameworks that are required in almost every Frontend job like React, Vue.js, and Svelte,...
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
@@ -87,7 +87,7 @@ Frontend Developer Path is the place where you practice popular frameworks that 
 
 #### Fullstack Developer Path
 
-In Backend Developer Path, you are provided a Frontend starter, you are expected to implement backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, or Firebase to speed up.
+In this path, you are expected to implement your own backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, Firebase,.. to speed up.
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
