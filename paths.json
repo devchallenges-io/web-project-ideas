@@ -17,6 +17,6 @@
     {
         "name": "Fullstack Developer",
         "dcid": 4,
-        "description": "In this path, you are expected to implement your own backend services, for example, using MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or LAMP Stack (Linux, Apache, MySQL, PHP),... You can also use tools like Supabse, Firebase,.. to speed up."
+        "description": "In this path, you are expected to implement both the front end and the back end of a website. You can build your own backend services with MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or tools like Supabse, Firebase,.. to speed up."
     }
 ]
