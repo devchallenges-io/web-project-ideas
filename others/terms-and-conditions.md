@@ -1,4 +1,4 @@
-### Terms and Conditions
+### Terms and Conditions for devChallenges
 
 By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
 
