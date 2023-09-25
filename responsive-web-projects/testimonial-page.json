@@ -1,24 +1,46 @@
 {
-    "title": "Testimonial Page",
-    "description": "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that challenges you to use grid, media queries, icons,...",
-    "userStories": [
-        {
-            "content": "Create a testimonial page that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add heading, body text, checklists according to the design."
-        },
-        {
-            "content": "Add 2 testimonial cards according to the design."
-        },
-        {
-            "content": "Use CSS to style the card."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
+  "title": "Testimonial Page",
+  "description": "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that challenges you to use grid, media queries, icons,...",
+  "userStories": [
+    {
+      "content": "Create a testimonial page that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add heading, body text, checklists according to the design."
+    },
+    {
+      "content": "Add 2 testimonial cards according to the design."
+    },
+    {
+      "content": "Use CSS to style the card."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    {
+      "content": "Reviewers is where people can access guidelines, checklists, and other tools to assist them in reviewing papers or manuscripts. It provides a structured approach to ensure that the review process is thorough, efficient, and consistent."
+    },
+    {
+      "content": "Checklist to Review an Academic Paper"
+    },
+    { "content": "Peer Review Checklist" },
+    {
+      "content": "Checklist for Editors, Reviewers, and Authors of SPIE Journals"
+    },
+    {
+      "content": "Samantha Lee"
+    },
+    {
+      "content": "The checklist ensures that the review process is thorough"
+    },
+    {
+      "content": "Rachel Patel"
+    },
+    { "content": "I highly recommend the Writecream Business Description " }
+  ]
 }

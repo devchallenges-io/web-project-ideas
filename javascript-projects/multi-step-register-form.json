@@ -1,36 +1,44 @@
 {
-    "title": "Multi-step Register Form",
-    "description": "This challenge is great for practicing your JavaScript skills. The challenge is to create a 3-step registration form with different sections that tests your JavaScript skill.",
-    "userStories": [
-        {
-            "content": "Create a multi-step registration page that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add form, inputs, buttons, stepper,... according to the design."
-        },
-        {
-            "content": "Add validations to the inputs: name and email input should be required and email input should only accept email format"
-        },
-        {
-            "content": "Use JavaScript to add interactivity."
-        },
-        {
-            "content": "Users should not be able to continue to the next step if inputs are empty or the topic is not selected."
-        },
-        {
-            "content": "Users should be able to continue to the next step if inputs are filled or topic is selected."
-        },
-        {
-            "content": "Users should be able to know which step they are at."
-        },
-        {
-            "content": "When users click confirm, they should see an alert with '✅ Success' message."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
-} 
+  "title": "Multi-step Register Form",
+  "description": "This challenge is great for practicing your JavaScript skills. The challenge is to create a 3-step registration form with different sections that tests your JavaScript skill.",
+  "userStories": [
+    {
+      "content": "Create a multi-step registration page that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add form, inputs, buttons, stepper,... according to the design."
+    },
+    {
+      "content": "Add validations to the inputs: name and email input should be required and email input should only accept email format"
+    },
+    {
+      "content": "Use JavaScript to add interactivity."
+    },
+    {
+      "content": "Users should not be able to continue to the next step if inputs are empty or the topic is not selected."
+    },
+    {
+      "content": "Users should be able to continue to the next step if inputs are filled or topic is selected."
+    },
+    {
+      "content": "Users should be able to know which step they are at."
+    },
+    {
+      "content": "When users click confirm, they should see an alert with '✅ Success' message."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Which topics you are interested in?" },
+    {
+      "content": "Software Development"
+    },
+    { "content": "User Experience" },
+    { "content": "Graphic Design" }
+  ]
+}

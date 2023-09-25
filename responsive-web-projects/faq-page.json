@@ -1,27 +1,48 @@
 {
-    "title": "FAQ Page",
-    "description": "This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements",
-    "userStories": [
-        {
-            "content": "Create a FAQ page that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add heading, description, tabs, accordions,.. according to the design."
-        },
-        {
-            "content": "User should be able to select different tabs."
-        },
-        {
-            "content": "User should be able to toggle accordions open and close. The content of each accordion is up to you but 2 accordions should be open default, same as in design."
-        },
-        {
-            "content": "Use CSS or CSS frameworks to style the card."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
+  "title": "FAQ Page",
+  "description": "This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements",
+  "userStories": [
+    {
+      "content": "Create a FAQ page that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add heading, description, tabs, accordions,.. according to the design."
+    },
+    {
+      "content": "User should be able to select different tabs."
+    },
+    {
+      "content": "User should be able to toggle accordions open and close. The content of each accordion is up to you but 2 accordions should be open default, same as in design."
+    },
+    {
+      "content": "Use CSS or CSS frameworks to style the card."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Frequently asked questions" },
+    {
+      "content": "Products, Website or Brand Design, we’ve got you covered!"
+    },
+    {
+      "content": "Give us your questions, and we can help you achieve our goals together!"
+    },
+    { "content": "How does it work?" },
+    { "content": "Which platform do you support?" },
+    {
+      "content": "In a situational interview, the interviewer may ask how you overcame a difficult situation and what you learned from it. You can use your response to demonstrate your flexibility and share an example of how you transformed a negative experience into a positive outcome "
+    },
+    { "content": "How do I invite my teammates?" },
+    {
+      "content": "Collect the contact information of your teammates, including their email addresses or usernames on the platform you will use."
+    },
+    { "content": "Do you have annual plan?" },
+    { "content": "How to create new workspace" },
+    { "content": "How do I set roles & permissions?" }
+  ]
 }

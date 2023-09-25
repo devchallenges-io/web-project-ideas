@@ -1,15 +1,23 @@
 {
-    "title": "Business Blog Card",
-    "description": "This challenge is a great way to practice basic HTML and CSS skills. The challenge is to create a business blog card that challenges you to use flexbox, positioning,...",
-    "userStories": [
-        {
-            "content": "Create a card component that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Use CSS to style the card."
-        }
-    ]
+  "title": "Business Blog Card",
+  "description": "This challenge is a great way to practice basic HTML and CSS skills. The challenge is to create a business blog card that challenges you to use flexbox, positioning,...",
+  "userStories": [
+    {
+      "content": "Create a card component that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Use CSS to style the card."
+    }
+  ],
+  "text": [
+    { "content": "Perfect solution for small business" },
+    {
+      "content": "Small businesses need to generate leads to grow. You can use tools like Ringy."
+    },
+    { "content": "Amy Burgess" },
+    { "content": "Customer Manger, Solution Oy" }
+  ]
 }

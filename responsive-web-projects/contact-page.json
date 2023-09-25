@@ -1,27 +1,37 @@
 {
-    "title": "Contact Page",
-    "description": "This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that challenges you to work with form, inputs,..",
-    "userStories": [
-        {
-            "content": "Create a contact page that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add icon, heading, description, form, input, dropdown, button,.. according to the design."
-        },
-        {
-            "content": "Inputs should have placeholders."
-        },
-        {
-            "content": "Dropdown should have at least 2 options, it's up to you which more options to add but the default must be same as in the design."
-        },
-        {
-            "content": "Use CSS or CSS frameworks to style the card."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
+  "title": "Contact Page",
+  "description": "This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that challenges you to work with form, inputs,..",
+  "userStories": [
+    {
+      "content": "Create a contact page that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add icon, heading, description, form, input, dropdown, button,.. according to the design."
+    },
+    {
+      "content": "Inputs should have placeholders."
+    },
+    {
+      "content": "Dropdown should have at least 2 options, it's up to you which more options to add but the default must be same as in the design."
+    },
+    {
+      "content": "Use CSS or CSS frameworks to style the card."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Interested in our business pricing?" },
+    {
+      "content": "Fill out the form to view details and we’ll contact you as soon as possible."
+    },
+    { "content": "Ethan Johnson" },
+    { "content": "ethan@johnson.com" },
+    { "content": "Building Landing pages" },
+    { "content": "Contact Sales" }
+  ]
 }

@@ -1,30 +1,38 @@
 {
-    "title": "Music Player",
-    "description": "This challenge is great to practice your JavaScript skills. The challenge is to create a simple music player app that tests your data management with JavaScript.",
-    "userStories": [
-        {
-            "content": "Create a music player app that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add image, title, author, progress bar, player button,... according to the design."
-        },
-        {
-            "content": "Use JavaScript to add interactivity."
-        },
-        {
-            "content": "Users should be able to play and stop the current song."
-        },
-        {
-            "content": "Users should be able to go to next and previous songs."
-        },
-        {
-            "content": "Users should be able to change play time with the progress bar."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
-} 
+  "title": "Music Player",
+  "description": "This challenge is great to practice your JavaScript skills. The challenge is to create a simple music player app that tests your data management with JavaScript.",
+  "userStories": [
+    {
+      "content": "Create a music player app that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add image, title, author, progress bar, player button,... according to the design."
+    },
+    {
+      "content": "Use JavaScript to add interactivity."
+    },
+    {
+      "content": "Users should be able to play and stop the current song."
+    },
+    {
+      "content": "Users should be able to go to next and previous songs."
+    },
+    {
+      "content": "Users should be able to change play time with the progress bar."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Lost in the City Lights" },
+    {
+      "content": "Cosmo Sheldrake"
+    },
+    { "content": "Forest Lullaby" },
+    { "content": "Lesfm" }
+  ]
+}

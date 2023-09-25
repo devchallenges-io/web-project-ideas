@@ -1,42 +1,48 @@
 {
-    "title": "Guess The Word Game",
-    "description": "This challenge is great to advance your JavaScript skills. The challenge is to create a small game that tests your data management with JavaScript.",
-    "userStories": [
-        {
-            "content": "Create a guess the word game that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add image, title, author, progress bar, player button,... according to the design."
-        },
-        {
-            "content": "Use JavaScript to add interactivity."
-        },
-        {
-            "content": "Users should be able to see a random scrambled word when the page is first loaded or after users click the random button."
-        },
-        {
-            "content": "Users should be able to enter a letter at a time, after each time, the input should automatically focus on the next input if exist."
-        },
-        {
-            "content": "Users should be able to see the number of wrong answers (tries) and which the wrong answers are (mistakes)."
-        },
-        {
-            "content": "Users should be able to regenerate a new scrambled by selecting the random button."
-        },
-        {
-            "content": "Users should be able to reset all input, mistakes, tries but selecting reset button."
-        },
-        {
-            "content": "When the number of tries or mistakes reaches 6, the game should be reset."
-        },
-        {
-            "content": "When the user completes the game, it should show a '🎉 Success' alert."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
-} 
+  "title": "Guess The Word Game",
+  "description": "This challenge is great to advance your JavaScript skills. The challenge is to create a small game that tests your data management with JavaScript.",
+  "userStories": [
+    {
+      "content": "Create a guess the word game that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add image, title, author, progress bar, player button,... according to the design."
+    },
+    {
+      "content": "Use JavaScript to add interactivity."
+    },
+    {
+      "content": "Users should be able to see a random scrambled word when the page is first loaded or after users click the random button."
+    },
+    {
+      "content": "Users should be able to enter a letter at a time, after each time, the input should automatically focus on the next input if exist."
+    },
+    {
+      "content": "Users should be able to see the number of wrong answers (tries) and which the wrong answers are (mistakes)."
+    },
+    {
+      "content": "Users should be able to regenerate a new scrambled by selecting the random button."
+    },
+    {
+      "content": "Users should be able to reset all input, mistakes, tries but selecting reset button."
+    },
+    {
+      "content": "When the number of tries or mistakes reaches 6, the game should be reset."
+    },
+    {
+      "content": "When the user completes the game, it should show a '🎉 Success' alert."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Random" },
+    {
+      "content": "Reset"
+    }
+  ]
+}

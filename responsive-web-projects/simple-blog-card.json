@@ -1,15 +1,22 @@
 {
-    "title": "Minimal Blog Card",
-    "description": "This challenge is a great way to start with basic HTML and CSS skills. The challenge is to create a simple blog card that includes an image, a title, a short description, and a tag.",
-    "userStories": [
-        {
-            "content": "Create a card component that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Use CSS to style the card."
-        }
-    ]
+  "title": "Minimal Blog Card",
+  "description": "This challenge is a great way to start with basic HTML and CSS skills. The challenge is to create a simple blog card that includes an image, a title, a short description, and a tag.",
+  "userStories": [
+    {
+      "content": "Create a card component that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Use CSS to style the card."
+    }
+  ],
+  "text": [
+    { "content": "Embracing Minimalism" },
+    {
+      "content": "From minimalist sculptures to minimalist paintings, this blog will inspire you to appreciate the beauty that lies in simplicity."
+    },
+    { "content": "Annie Spratt" }
+  ]
 }

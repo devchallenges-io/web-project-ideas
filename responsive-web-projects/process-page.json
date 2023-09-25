@@ -1,24 +1,39 @@
 {
-    "title": "Process Page",
-    "description": "This challenge is to practice responsive design with HTML and CSS skills. The challenge is to create a process page that challenges you to work with different break-points.",
-    "userStories": [
-        {
-            "content": "Create a process page that matches the given design."
-        },
-        {
-            "content": "Use HTML to create the basic structure."
-        },
-        {
-            "content": "Add heading, descriptions, icons,.. according to the design."
-        },
-        {
-            "content": "Add dashed lines to separate different sections."
-        },
-        {
-            "content": "Use CSS to style the card."
-        },
-        {
-            "content": "The page should be responsive on different screen sizes."
-        }
-    ]
+  "title": "Process Page",
+  "description": "This challenge is to practice responsive design with HTML and CSS skills. The challenge is to create a process page that challenges you to work with different break-points.",
+  "userStories": [
+    {
+      "content": "Create a process page that matches the given design."
+    },
+    {
+      "content": "Use HTML to create the basic structure."
+    },
+    {
+      "content": "Add heading, descriptions, icons,.. according to the design."
+    },
+    {
+      "content": "Add dashed lines to separate different sections."
+    },
+    {
+      "content": "Use CSS to style the card."
+    },
+    {
+      "content": "The page should be responsive on different screen sizes."
+    }
+  ],
+  "text": [
+    { "content": "Easy And Perfect Solution For Your Business App" },
+    {
+      "content": "Save time and build products with well-organized and customizable desktop components for Figma."
+    },
+    {
+      "content": "Developer handoff made easy. Component and style guide documentation for your team in one place."
+    },
+    {
+      "content": "Stop wasting time on creating everything from scratch for every new project you start."
+    },
+    {
+      "content": "Easily apply your branding by changing font, color and component properties."
+    }
+  ]
 }
