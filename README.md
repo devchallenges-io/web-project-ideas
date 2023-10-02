@@ -76,7 +76,7 @@ This path is the place where you practice popular frameworks that are required i
 | Stock Tracker App                   | Upper-mid       | React/Vue/Svelte,...                |  
 | Github History                      | Upper-mid       | React/Vue/Svelte,...                |  
 | Translate App                       | Upper-mid       | React/Vue/Svelte,...                |  
-| Pixel Draer                         | Upper-mid       | React/Vue/Svelte,...                |  
+| Pixel Drawer                         | Upper-mid       | React/Vue/Svelte,...                |  
 | ChatGPT Bot                         | Upper-mid       | React/Vue/Svelte,...                |  
 | Currency Converter                  | Upper-mid       | React/Vue/Svelte,...                | 
 | Property Listing page with filters  | Upper-mid       | React/Vue/Svelte,...                | 
