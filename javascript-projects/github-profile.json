@@ -1,6 +1,6 @@
 {
   "title": "Github Profile",
-  "description": "This challenge is a great to practice working with multiple API endpoints in one application. The challenge is to create a simple QA quote generator application that requires you to use external library.",
+  "description": "This challenge is a great to practice working with multiple API endpoints in one application. The challenge is to create a Github Profile search app at requires you to use multiple API in an application.",
   "userStories": [
     {
       "content": "Create a QA code generator app that matches the given design."
