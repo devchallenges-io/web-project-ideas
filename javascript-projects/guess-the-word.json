@@ -1,6 +1,6 @@
 {
   "title": "Guess The Word Game",
-  "description": "This challenge is great to advance your JavaScript skills. The challenge is to create a small game that tests your data management with JavaScript.",
+  "description": "This challenge is great to advance your JavaScript skills. The challenge is to create a small game that tests your data management and DOM manipulation with JavaScript.",
   "userStories": [
     {
       "content": "Create a guess the word game that matches the given design."
