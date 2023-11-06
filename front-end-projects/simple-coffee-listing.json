@@ -25,12 +25,14 @@
     },
     {
       "content": "Deploy the solution and the Demo URL."
-    },
+    }
   ],
   "text": [
     { "content": "Our Collection" },
-    { "content": "Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly." },
+    {
+      "content": "Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly."
+    },
     { "content": "All Products" },
-    { "content": "Available Now" },
+    { "content": "Available Now" }
   ]
 }
