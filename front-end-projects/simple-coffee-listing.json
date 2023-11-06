@@ -1,11 +1,31 @@
 {
   "title": "Simple Coffee Listing",
-  "description": "This challenge is great to start working with Front-end library like React, Vue,... You will need to implement resusable card component with different variables based on the data given.",
+  "description": "This challenge is great for working with Front-end libraries like React, Vue,... You will need to implement a reusable card component with different variables based on the data given.",
   "userStories": [
     {
-      "content": "Create a text-to-speech app that matches the given design."
+      "content": "Create a coffee listing page that matches the given design."
     },
     {
+      "content": "Use React or other Front-end libraries for this challenge."
+    },
+    {
+      "content": "Create a Reusable Card component."
+    },
+    {
+      "content": "The card component should include a picture, name, pricing, rating, and number of votes if exists."
+    },
+    {
+      "content": "The card component should render popular tag, availability status conditionally."
+    },
+    {
+      "content": "Render Coffee list with given data. The data should come from a given API or downloaded JSON file."
+    },
+    {
+      "content": "Users can choose to list all products or just available products."
+    },
+    {
+      "content": "Deploy the solution and the Demo URL."
+    },
   ],
   "text": [
     { "content": "Enter your text" },
