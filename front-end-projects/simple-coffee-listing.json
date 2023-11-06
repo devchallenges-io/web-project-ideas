@@ -1,0 +1,13 @@
+{
+  "title": "Simple Coffee Listing",
+  "description": "This challenge is great to start working with Front-end library like React, Vue,... You will need to implement resusable card component with different variables based on the data given.",
+  "userStories": [
+    {
+      "content": "Create a text-to-speech app that matches the given design."
+    },
+    {
+  ],
+  "text": [
+    { "content": "Enter your text" },
+  ]
+}

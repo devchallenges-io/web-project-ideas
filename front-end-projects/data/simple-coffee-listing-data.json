@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Cappuccino",
+    "image": "",
+    "price": "$5.20",
+    "rating": 4.7,
+    "votes": 65,
+    "popular": true,
+    "available": true
+  }
+]
