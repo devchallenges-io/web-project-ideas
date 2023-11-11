@@ -1,0 +1,10 @@
+{
+  "title": "Property Listing",
+  "description": "TBA",
+  "userStories": [
+    {
+      "content": "Create a coffee listing page that matches the given design."
+    }
+  ],
+  "text": [{ "content": "Our Collection" }]
+}
