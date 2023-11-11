@@ -33,5 +33,8 @@
       "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "Peace, nature, dream" }, { "content": "Find and book a great experience." }]
+  "text": [
+    { "content": "Peace, nature, dream" },
+    { "content": "Find and book a great experience." }
+  ]
 }
