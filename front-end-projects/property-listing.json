@@ -1,10 +1,37 @@
 {
   "title": "Property Listing",
-  "description": "TBA",
+  "description": "This challenge is perfect to improve your Frontend skills from beginner to more advanced. You will need to implement reusable components and filter functionalities.",
   "userStories": [
     {
-      "content": "Create a coffee listing page that matches the given design."
+      "content": "Create a property listing page that matches the given design."
+    },
+    {
+      "content": "Use React or other Front-end libraries for this challenge."
+    },
+    {
+      "content": "Create a Reusable Property Card component."
+    },
+    {
+      "content": "The card component should include a thumbnail picture, title, description, capacity, price, and rating."
+    },
+    {
+      "content": "The card component should render superhost tag conditionally."
+    },
+    {
+      "content": "Render Property list with given data. The data should come from a given API or downloaded JSON file."
+    },
+    {
+      "content": "Users can filter properties by location and they can select multiple locations at once."
+    },
+    {
+      "content": "Users can filter properties by superhost."
+    },
+    {
+      "content": "Users can filter properties by property type: 1 bedroom or 2 bedrooms."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "Our Collection" }]
+  "text": [{ "content": "Peace, nature, dream" }, { "content": "Find and book a great experience." }]
 }
