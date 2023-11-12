@@ -1,10 +1,34 @@
 {
-  "title": "AI Chat Bot - simplechat.ai",
-  "description": "TBD",
+  "title": "AI Chatbot - simplechat.ai",
+  "description": "As AI is the future, knowing how to build an AI chatbot can be helpful. In this challenge, you will work with a provided API and build a simple AI chatbot.",
   "userStories": [
     {
-      "content": "TBD"
+      "content": "Create an AI chatbot that matches the given layout."
+    },
+    {
+      "content": "By default, users should see a small conversion between the user and the chatbot."
+    },
+    {
+      "content": "Users can ask the following questions and get responses from the chatbot."
+    },
+    {
+      "content": "Users can add new conversations. When a new conversion is added, its title should be the first question from the user."
+    },
+    {
+      "content": "Conversations should be stored in local storage."
+    },
+    {
+      "content": "Users can edit conversations' title."
+    },
+    {
+      "content": "Users can delete conversations."
+    },
+    {
+      "content": "The application should be responsive on all devices."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "TBD" }]
+  "text": [{ "content": "New Chat" }, { "content": "Ask simplechat.ai anything" }]
 }
