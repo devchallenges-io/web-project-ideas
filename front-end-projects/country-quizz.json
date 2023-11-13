@@ -1,10 +1,28 @@
 {
-  "title": "Country Quizz",
-  "description": "TBD",
+  "title": "Country Quiz",
+  "description": "Most of the time, API is optimized for displaying a set of data, but other times, we need to modify the data and use it for our purpose. In this challenge, you will work with country API and build a country quiz app.",
   "userStories": [
+   {
+    "content": "Create a country quiz that matches the given design."
+   },
+   {
+    "content": "By default, generate 10 questions about countries with the given API."
+   },
+   {
+    "content": "In each question, users should see 4 options."
+   },
+   {
+    "content": "When users select an answer, they should get the correct answer immediately with according indicators in the design."
+   },
+   {
+    "content": "User can navigate to any questions."
+   },
+   {
+    "content": "When users answer all 10 questions, they should see a congratulations page with the result and choose to play again."
+   },
     {
-      "content": "TBD"
+    "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "TBD" }]
+  "text": [{ "content": "Country Quiz" }, { "content": "Congrats! You completed the quiz." }, { "content": "You answer 4/10 correctly." }]
 }
