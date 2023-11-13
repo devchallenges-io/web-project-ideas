@@ -1,12 +1,12 @@
 {
   "title": "Task Manager App",
-  "description": "As a frontend developer, it requires you to work with external libraries/tool all the time, sometimes it can be complicated and takes days to understand. In this challenge, you will work with a task manager application, this will challenge you to work with external JS library, as well as data management.",
+  "description": "As a frontend developer, it requires you to work with external libraries/tools all the time, sometimes it can be complicated and takes days to understand. In this challenge, you will work with a task manager application, this will challenge you to work with external JS library, as well as data management.",
   "userStories": [
     {
       "content": "Build a task management app that matches the given design."
     },
     {
-      "content": "By default, users can see a board with 4 columns (Backlog, In Progress, In Review and Completed) and a default task in backlog."
+      "content": "By default, users can see a board with 4 columns (Backlog, In Progress, In Review, and Completed) and a default task in backlog."
     },
     {
       "content": "Users can add a new task to Backlog."
@@ -15,7 +15,7 @@
       "content": "When a task is selected, users can edit the task name and status."
     },
     {
-      "content": "When a task is selected, users can choose to add a random cover image with given API or remove image if exists."
+      "content": "When a task is selected, users can choose to add a random cover image with a given API or remove the image if exists."
     },
     {
       "content": "When a task is selected, users can add and remove tags. They should be able to choose at least 4 tags like in the design."
@@ -27,10 +27,10 @@
       "content": "Users can delete the board."
     },
     {
-      "content": "Users can drag and drop task card to different columns."
+      "content": "Users can drag and drop task cards to different columns."
     },
     {
-      "content": "Users can see number of tasks in each column."
+      "content": "Users can see the number of tasks in each column."
     },
     {
       "content": "Users can toggle between light and dark mode."
