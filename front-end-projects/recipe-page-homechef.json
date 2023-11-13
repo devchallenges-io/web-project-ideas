@@ -1,10 +1,34 @@
 {
   "title": "Recipe page - HomeChef",
-  "description": "TBD",
+  "description": "In this challenge, you will work with an API to build a Recipe Page/Application. This will require you to understand the API and make multiple API calls to complete the challenge.",
   "userStories": [
     {
-      "content": "TBD"
+      "content": "Create a recipe page that matches the given design."
+    },
+    {
+      "content": "By default, users can see a list of deserts."
+    },
+    {
+      "content": "Users can select different categories: Beef, Chicken, Dessert, Lamb, Miscellaneous, Pasta,...."
+    },
+    {
+      "content": "The category list should come from the API."
+    },
+    {
+      "content": "Users can sort recipes by their name or ID."
+    },
+    {
+      "content": "Users can search for recipes by name or instructions or area"
+    },
+    {
+      "content": "Users can select a recipe to redirect to a recipe detail page."
+    },
+    {
+      "content": "On the Recipe detail page, users should see category, area, ingredients and instructions."
+    },
+    {
+    "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "TBD" }]
+  "text": [{ "content": "Search recipes and more..."  }, { "content": "Back to categories"  }]
 }
