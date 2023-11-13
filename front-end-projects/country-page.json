@@ -3,40 +3,40 @@
   "description": "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table.",
   "userStories": [
     {
-      "content": "Create a coffee listing page that matches the given design.",
+      "content": "Create a coffee listing page that matches the given design."
     },
     {
-      "content": "By default, users can see a list of all countries sorted by population.",
+      "content": "By default, users can see a list of all countries sorted by population."
     },
     {
-      "content": "Users can choose to sort by name alphabetical order or population or area (km²).",
+      "content": "Users can choose to sort by name alphabetical order or population or area (km²)."
     },
     {
-      "content": "Users can choose to filter by multiple regions, the regions can be Americas, Antarctic, Africa, Asia, Europe, or Oceania.",
+      "content": "Users can choose to filter by multiple regions, the regions can be Americas, Antarctic, Africa, Asia, Europe, or Oceania."
     },
     {
-      "content": "Users can choose to filter countries that are members of the United Nations.",
+      "content": "Users can choose to filter countries that are members of the United Nations."
     },
     {
-      "content": "Users can choose to filter countries that are independent.",
+      "content": "Users can choose to filter countries that are independent."
     },
     {
-      "content": "Users can filter/search for countries by their names, regions or subregions.",
+      "content": "Users can filter/search for countries by their names, regions or subregions."
     },
     {
-      "content": "Users can see the total number of countries.",
+      "content": "Users can see the total number of countries."
     },
     {
-      "content": "Users can select a country and see more details on a country page.",
+      "content": "Users can select a country and see more details on a country page."
     },
     {
-      "content": "On the country page, users can see info like population, area, capital,....",
+      "content": "On the country page, users can see info like population, area, capital,...."
     },
     {
-      "content": "On the country page, users can see the neighboring countries.",
+      "content": "On the country page, users can see the neighboring countries."
     },
     {
-      "content": "On the country page, when users select a neighboring country, it should redirect to the according country page.",
+      "content": "On the country page, when users select a neighboring country, it should redirect to the according country page."
     },
     {
       "content": "[Optional] The country list is paginated",
@@ -50,9 +50,10 @@
       "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "Search by Name, Region, Subregion" }, 
-    { "content": "Member of the United Nations" },  
+  "text": [
+    { "content": "Search by Name, Region, Subregion" },
+    { "content": "Member of the United Nations" },
     { "content": "Area (km²)" },
-    { "content": "Neighbouring Countries" } 
+    { "content": "Neighbouring Countries" }
   ]
 }
