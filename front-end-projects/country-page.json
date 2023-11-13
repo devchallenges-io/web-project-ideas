@@ -1,6 +1,6 @@
 {
   "title": "Country Page - World Ranking",
-  "description": "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table.",
+  "description": "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table."
   "userStories": [
     {
       "content": "Create a coffee listing page that matches the given design."
