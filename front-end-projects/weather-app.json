@@ -1,10 +1,34 @@
 {
   "title": "Weather App",
-  "description": "TBD",
+  "description": "Weather app has been a popular project to add to many devs' portfolio. In this challenge, you will work with an API to get current weather of a location.",
   "userStories": [
     {
-      "content": "TBD"
+      "content": "Create a weather app that matches the given design."
+    },
+    {
+      "content": "By default, user can see weather of a location (you can choose a location). Alternatively, it could use current location of the user."
+    },
+    {
+      "content": "Users can see temperature, location, time, wind, high/low temperature, weather status of the selected location."
+    },
+    {
+      "content": "Users can see temperature of the upcoming 24 hours with 3 hours interval."
+    },
+    {
+      "content": "Users can see forecast of the next 5 days with weather status and low/hight temperature."
+    },
+    {
+      "content": "Users can see summary weather of large city such as New York, Copenhagen or Ho Chi Minh City (you can choose 3 cities of your choice)."
+    },
+    {
+      "content": "Users can choose to display temperature in celsius or fahrenheit."
+    },
+    {
+      "content": "Users can search for a city and see its weather."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
-  "text": [{ "content": "TBD" }]
+  "text": [{ "content": "Search city...." }, { "content": "Other large cities" },  { "content": "5-day forecast" }]
 }
