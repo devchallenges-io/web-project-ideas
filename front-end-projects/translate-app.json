@@ -25,7 +25,7 @@
     },
     {
       "content": "Users can copy the translating and translated texts."
-    },
+    }
   ],
   "text": [{ "content": "Detect Language" }, { "content": "Translate" }]
 }
