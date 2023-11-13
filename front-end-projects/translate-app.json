@@ -1,6 +1,6 @@
 {
   "title": "Translate App",
-  "description": "As a Frontend developer, you will be given tasks to build interactive application . In this challenge, you will build an simple translate application with given API.",
+  "description": "As a Frontend developer, you will be given tasks to build an interactive application. In this challenge, you will build a simple translate application with a given API.",
   "userStories": [
     {
       "content": "Create a translate application page that matches the given design."
@@ -9,10 +9,10 @@
       "content": "By default, it should translate 'Hello, how are you' to French."
     },
     {
-      "content": "Users can change translating text with maxium of 500 characters."
+      "content": "Users can change translating text with a maximum of 500 characters."
     },
     {
-      "content": "Users can see the translated text after selected Translate button. Optionally, users can see updates in real time and you use debounce or throttling to optimize the application."
+      "content": "Users can see the translated text after selecting the Translate button. Optionally, users can see updates in real-time and you use debounce or throttling to optimize the application."
     },
     {
       "content": "Users can choose different languages to translate from. They should see at least 3 options: Detect Language, English and French."
@@ -21,7 +21,7 @@
       "content": "Users can switch translation language and translated language."
     },
     {
-      "content": "Users can have option to listen the translating and translated texts."
+      "content": "Users can have the option to listen to the translating and translated texts."
     },
     {
       "content": "Users can copy the translating and translated texts."
