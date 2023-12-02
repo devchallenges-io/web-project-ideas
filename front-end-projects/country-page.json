@@ -3,7 +3,7 @@
   "description": "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table.",
   "userStories": [
     {
-      "content": "Create a coffee listing page that matches the given design."
+      "content": "Create a country ranking page that matches the given design."
     },
     {
       "content": "By default, users can see a list of all countries sorted by population."
