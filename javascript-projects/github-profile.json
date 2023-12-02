@@ -1,12 +1,12 @@
 {
   "title": "Github Profile",
-  "description": "This challenge is a great to practice working with multiple API endpoints in one application. The challenge is to create a Github Profile search app at requires you to use multiple API in an application.",
+  "description": "This challenge is great to practice working with multiple API endpoints in one application. The challenge is to create a Github Profile search app at requires you to use multiple API in an application.",
   "userStories": [
     {
-      "content": "Create a QA code generator app that matches the given design."
+      "content": "Create a Github profile page that matches the given design."
     },
     {
-      "content": "Use HTML to create basic structure."
+      "content": "Use HTML to create the basic structure."
     },
     {
       "content": "Add inputs, images, buttons,.. according to the design."
@@ -18,16 +18,16 @@
       "content": "Users should be able to search for user by user name."
     },
     {
-      "content": "User should be able to see number of followers, following and location."
+      "content": "User should be able to see the number of followers, following, and location."
     },
     {
       "content": "User should be able to see the repositories that profile has."
     },
     {
-      "content": "User should be able to see the details of each repositories."
+      "content": "User should be able to see the details of each repository."
     },
     {
-      "content": "When users select repository card, they should be able see the repository page in the new tab."
+      "content": "When users select repository card, they should be able to see the repository page in the new tab."
     },
     {
       "content": "The page should be responsive on different screen sizes."
