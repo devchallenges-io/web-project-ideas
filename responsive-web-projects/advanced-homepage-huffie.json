@@ -3,7 +3,7 @@
   "description": "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills",
   "userStories": [
     {
-      "content": "Create a testimonial page that matches the given design."
+      "content": "Create an advanced homepage - Huffie that matches the given design."
     },
     {
       "content": "Use HTML to create the basic structure."
@@ -12,10 +12,13 @@
       "content": "Add logo, title, descriptions, buttons, images, etc., according to the design."
     },
     {
-      "content": "Use CSS to style the card."
+      "content": "Use CSS or CSS framework to style the page."
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the page and submit the Demo URL."
     }
   ],
   "text": [
