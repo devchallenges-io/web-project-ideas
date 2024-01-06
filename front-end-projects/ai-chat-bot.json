@@ -6,13 +6,13 @@
       "content": "Create an AI chatbot that matches the given layout."
     },
     {
-      "content": "By default, users should see a small conversion between the user and the chatbot."
+      "content": "By default, users should see a small conversation between the user and the chatbot."
     },
     {
       "content": "Users can ask the following questions and get responses from the chatbot."
     },
     {
-      "content": "Users can add new conversations. When a new conversion is added, its title should be the first question from the user."
+      "content": "Users can add new conversations. When a new conversation is added, its title should be the first question from the user."
     },
     {
       "content": "Conversations should be stored in local storage."
