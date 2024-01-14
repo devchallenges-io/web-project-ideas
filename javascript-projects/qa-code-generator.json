@@ -1,6 +1,6 @@
 {
   "title": "QR Code Generator App - QACODE",
-  "description": "This challenge is great to practice working with an external library. The challenge is to create a simple QR quote generator application that requires you to use an external library.",
+  "description": "This challenge provides an excellent opportunity to practice your JavaScript skills by creating a simple QR code generator application that requires the use of an external library.",
   "userStories": [
     {
       "content": "Create a QR code generator app that matches the given design."
@@ -12,22 +12,25 @@
       "content": "Add inputs, buttons,.. according to the design."
     },
     {
-      "content": "Use JavaScript to add interactivity."
+      "content": "Use vanilla JavaScript to add interactivity."
     },
     {
-      "content": "Users should be able to enter a URL."
+      "content": "Users can enter a URL."
     },
     {
-      "content": "User should be able to see a QR quote after selecting the QR code button."
+      "content": "User can see a QR quote after selecting the QR code button."
     },
     {
-      "content": "User should be able to download QR quote image by selecting download button."
+      "content": "User can download QR quote image by selecting download button."
     },
     {
-      "content": "User should be able to copy Quote to the clipboard by selecting Share button."
+      "content": "User can copy Quote to the clipboard by selecting Share button."
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [

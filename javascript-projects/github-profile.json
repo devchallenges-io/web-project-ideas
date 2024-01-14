@@ -1,6 +1,6 @@
 {
   "title": "Github Profile",
-  "description": "This challenge is great to practice working with multiple API endpoints in one application. The challenge is to create a Github Profile search app at requires you to use multiple API in an application.",
+  "description": "The challenge requires creating a Github Profile search application that utilizes multiple API endpoints.  The Github Profile search app requires the use of multiple APIs, such as the Github REST API, which returns information about a repository as a JSON.",
   "userStories": [
     {
       "content": "Create a Github profile page that matches the given design."
@@ -31,6 +31,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [{ "content": "View all repositories" }]

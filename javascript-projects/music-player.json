@@ -1,6 +1,6 @@
 {
   "title": "Music Player",
-  "description": "This challenge is great to practice your JavaScript skills. The challenge is to create a simple music player app that tests your data management with JavaScript.",
+  "description": "This challenge is an excellent opportunity to enhance your JavaScript skills by creating a simple music player app that tests your data management capabilities using JavaScript..",
   "userStories": [
     {
       "content": "Create a music player app that matches the given design."
@@ -12,7 +12,7 @@
       "content": "Add image, title, author, progress bar, player button,... according to the design."
     },
     {
-      "content": "Use JavaScript to add interactivity."
+      "content": "Use vanilla JavaScript to add interactivity."
     },
     {
       "content": "Users should be able to play and stop the current song."
@@ -25,6 +25,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [

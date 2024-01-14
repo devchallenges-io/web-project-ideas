@@ -1,6 +1,6 @@
 {
   "title": "Movie Search App - OMDb",
-  "description": "This challenge is a great to practice working with external API. The challenge is to create a simple movie search to speech application that requires you to work with advanced JavaScript functionalities.",
+  "description": "The challenge is to create a movie search application using external APIs and advanced JavaScript functionalities. The application will allow users to search for movies and display information about them. To create the application, developers can use APIs such as the OMDB API, which provides movie information such as title, year, plot, and ratings.",
   "userStories": [
     {
       "content": "Create a movie search app that matches the given design."
@@ -18,10 +18,13 @@
       "content": "Users should be able to enter a movie name in search input."
     },
     {
-      "content": "After search input is filled and users press enter, users should see a movie or 'Movie not found' text if there is no movie matched the searched text."
+      "content": "After search input is filled and users press enter, users should see a movie or `Movie not found` text if there is no movie matched the searched text."
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [

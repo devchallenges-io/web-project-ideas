@@ -1,6 +1,6 @@
 {
   "title": "Text to Speech - Speechbot",
-  "description": "This challenge is great for you to work with advanced built-in JavaScript functionality. The challenge is to create a simple tech to speech application that requires you to work with advanced JavaScript functionalities.",
+  "description": "The challenge is to create a simple text-to-speech application using advanced built-in JavaScript functionality. This involves working with JavaScript APIs such as the Speech Recognition API and the Speech Synthesis API.",
   "userStories": [
     {
       "content": "Create a text-to-speech app that matches the given design."
@@ -15,19 +15,22 @@
       "content": "Use JavaScript to add interactivity."
     },
     {
-      "content": "Users should be able to enter custom text."
+      "content": "Users can enter custom text."
     },
     {
-      "content": "Users should be able to choose the voice of the speech, the default should be 'Albert'."
+      "content": "Users can choose the voice of the speech, the default should be 'Albert'."
     },
     {
-      "content": "Users should be able to choose the speed of the speech (0.5, 0.75, 1 or 1.5 times)."
+      "content": "Users can choose the speed of the speech (0.5, 0.75, 1 or 1.5 times)."
     },
     {
-      "content": "Users should be able to select Text to Speech button and listen to the speech."
+      "content": "Users can select Text to Speech button and listen to the speech."
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [

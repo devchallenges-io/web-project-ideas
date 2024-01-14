@@ -1,6 +1,6 @@
 {
   "title": "Random Quote",
-  "description": "This challenge is a great introduction to using external API in your application. The challenge is to create a small random quote application that requires you to work with JavaScript.",
+  "description": "This challenge is an excellent opportunity to gain practical experience in utilizing external APIs within your application. The task involves creating a straightforward application for generating random quotes, which will necessitate the use of an external API.",
   "userStories": [
     {
       "content": "Create a random quote app that matches the given design."
@@ -12,7 +12,7 @@
       "content": "Add author name, quote, tag,.. according to the design."
     },
     {
-      "content": "Use JavaScript to add interactivity."
+      "content": "Use vanilla JavaScript to add interactivity."
     },
     {
       "content": "Users can see a random quote when they first visit the page."
@@ -25,6 +25,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": []

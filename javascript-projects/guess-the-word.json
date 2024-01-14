@@ -9,25 +9,22 @@
       "content": "Use HTML to create the basic structure."
     },
     {
-      "content": "Add image, title, author, progress bar, player button,... according to the design."
+      "content": "Use Vanilla JavaScript to add interactivity. "
     },
     {
-      "content": "Use JavaScript to add interactivity."
+      "content": "Users can see a random scrambled word when the page is first loaded or after users click the random button."
     },
     {
-      "content": "Users should be able to see a random scrambled word when the page is first loaded or after users click the random button."
+      "content": "Users can enter one letter at a time. After each attempt, the input should automatically focus on the next input if it exists."
     },
     {
-      "content": "Users should be able to enter one letter at a time. After each attempt, the input should automatically focus on the next input if it exists."
+      "content": "Users can see the number of wrong answers (tries) and which answers are wrong (mistakes)."
     },
     {
-      "content": "Users should be able to see the number of wrong answers (tries) and which answers are wrong (mistakes)."
+      "content": "Users can regenerate a new scrambled word by selecting the random button."
     },
     {
-      "content": "Users should be able to regenerate a new scrambled word by selecting the random button."
-    },
-    {
-      "content": "Users should be able to reset all inputs, mistakes, and tries by selecting the reset button."
+      "content": "Users can reset all inputs, mistakes, and tries by selecting the reset button."
     },
     {
       "content": "When the number of tries or mistakes reaches 6, the game should be reset."
@@ -37,6 +34,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [
