@@ -1,18 +1,18 @@
 {
   "title": "Code Sharing App - NoteCode",
-  "description": "As a simple full-stack project challenge, NoteCode is a simple code sharing application, which tests basic skills of a Fullstack developer. In this challenge, you need to create an app that let users to store and share coding snippets.",
+  "description": "As a simple full-stack project challenge, NoteCode is a simple code-sharing application, which tests the basic skills of a Fullstack developer. In this challenge, you need to create an app that lets users to store and share coding snippets.",
   "userStories": [
     {
-      "content": "Create an Coding Sharing App - NoteCode following given design."
+      "content": "Create a Coding Sharing App - NoteCode following given design."
     },
     {
-      "content": "By default, users should see a HTML given snippet. See `Code Guide` for default HTML code."
+      "content": "By default, users should see an HTML given snippet. See `Code Guide` for default HTML code."
     },
     {
-      "content": "When users select `Share` button, a new ID should be generated, users can access the saved code with the generated ID. See `Code Guide` for more details."
+      "content": "When users select the `Share` button, a new ID should be generated, and users can access the saved code with the generated ID. See `Code Guide` for more details."
     },
     {
-      "content": "Users can choose the language and theme that they want to save and share."
+      "content": "Users can choose the language and theme they want to save and share."
     },
     {
       "content": "The application should be responsive on all devices."
