@@ -1,6 +1,6 @@
 {
   "title": "Testimonial Page",
-  "description": "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that challenges you to use grid, media queries, icons,...",
+  "description": "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that you need use grid, media queries, icons,...",
   "userStories": [
     {
       "content": "Create a testimonial page that matches the given design."
@@ -19,6 +19,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [
