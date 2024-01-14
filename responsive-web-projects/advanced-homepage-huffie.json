@@ -1,6 +1,6 @@
 {
   "title": "Advanced Homepage - Huffie",
-  "description": "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills",
+  "description": "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills.",
   "userStories": [
     {
       "content": "Create an advanced homepage - Huffie that matches the given design."
@@ -18,7 +18,7 @@
       "content": "The page should be responsive on different screen sizes."
     },
     {
-      "content": "Deploy the page and submit the Demo URL."
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [

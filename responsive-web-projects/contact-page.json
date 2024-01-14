@@ -1,6 +1,6 @@
 {
   "title": "Contact Page",
-  "description": "This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that challenges you to work with form, inputs,..",
+  "description": "This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that you need to work with form, inputs,..",
   "userStories": [
     {
       "content": "Create a contact page that matches the given design."
@@ -22,6 +22,9 @@
     },
     {
       "content": "The page should be responsive on different screen sizes."
+    },
+    {
+      "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
   "text": [
