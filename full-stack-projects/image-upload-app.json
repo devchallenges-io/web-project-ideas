@@ -1,6 +1,6 @@
 {
   "title": "Simple Image Upload App",
-  "description": "One of the common tasks that we get as developers is working with files. In this challenge, you need to create a simple Image Upload application that lets users upload images.",
+  "description": "In full-stack development, a common task involves working with files. This challenge presents an opportunity to create a straightforward Image Upload application, enabling users to upload images.",
   "userStories": [
     {
       "content": "Create a simple image upload application following the given design."

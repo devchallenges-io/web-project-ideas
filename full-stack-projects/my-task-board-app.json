@@ -1,6 +1,6 @@
 {
   "title": "My Task Board",
-  "description": "In this challenge, you will create a simple task management app, which will require you to implement all basic HTTP methods like GET, POST, PUT and DELETE.",
+  "description": "In this full-stack challenge, you will develop a straightforward task management application, which will involve implementing essential HTTP methods such as GET, POST, PUT, and DELETE. This project will provide an opportunity to demonstrate proficiency in full-stack development by creating a system that enables users to manage tasks using a range of fundamental HTTP operations.",
   "userStories": [
     {
       "content": "Create a simple task management application following given design."
