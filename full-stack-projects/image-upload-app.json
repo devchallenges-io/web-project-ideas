@@ -6,7 +6,7 @@
       "content": "Create a simple image upload application following the given design."
     },
     {
-      "content": "Users can upload an image at a time. The file should be JPG, PNG or GIF, the maximum size is 2MB."
+      "content": "Users can upload an image at a time. The file should be JPG, PNG, or GIF. The maximum size is 2MB."
     },
     {
       "content": "Users can drag and drop the file to upload it."
@@ -27,7 +27,7 @@
       "content": "After the image is uploaded, users can download the image by selecting the `Download` button"
     },
     {
-      "content": "Optional, users change theme between dark and light."
+      "content": "Optionally, users change theme between dark and light."
     },
     {
       "content": "Deploy the solution and submit Repository URL and Demo URL."
