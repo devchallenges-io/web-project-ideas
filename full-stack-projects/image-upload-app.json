@@ -1,12 +1,12 @@
 {
   "title": "Simple Image Upload App",
-  "description": "One of common tasks that we need to solve as developer is working with files. In this challenge, you need to create a simple Image Upload application.",
+  "description": "One of the common tasks that we get as developers is working with files. In this challenge, you need to create a simple Image Upload application that lets users upload images.",
   "userStories": [
     {
-      "content": "Create a simple image upload application following given design."
+      "content": "Create a simple image upload application following the given design."
     },
     {
-      "content": "Users can upload an image at a time. The file should be JPG, PNG or GIF, the maximun size is 2MB."
+      "content": "Users can upload an image at a time. The file should be JPG, PNG or GIF, the maximum size is 2MB."
     },
     {
       "content": "Users can drag and drop the file to upload it."
@@ -15,16 +15,16 @@
       "content": "Users can browse files and select a file to upload."
     },
     {
-      "content": "When the image is uploading, users can see an loader like in the design."
+      "content": "When the image is uploading, users can see a loader like in the design."
     },
     {
       "content": "When the image is successfully uploaded, users can see the image."
     },
     {
-      "content": "After image is uploaded, users can copy its address by selecting `Share` button"
+      "content": "After the image is uploaded, users can copy its address by selecting the `Share` button"
     },
     {
-      "content": "After image is uploaded, users can download the image by selecting `Download` button"
+      "content": "After the image is uploaded, users can download the image by selecting the `Download` button"
     },
     {
       "content": "Optional, users change theme between dark and light."
