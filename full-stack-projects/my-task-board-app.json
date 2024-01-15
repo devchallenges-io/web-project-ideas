@@ -3,13 +3,13 @@
   "description": "In this full-stack challenge, you will develop a straightforward task management application, which will involve implementing essential HTTP methods such as GET, POST, PUT, and DELETE. This project will provide an opportunity to demonstrate proficiency in full-stack development by creating a system that enables users to manage tasks using a range of fundamental HTTP operations.",
   "userStories": [
     {
-      "content": "Create a simple task management application following given design."
+      "content": "Create a simple task management application following the given design."
     },
     {
       "content": "By default, it should show a board with 4 tasks like in the design."
     },
     {
-      "content": "Users can edit task name, description, icon and status."
+      "content": "Users can edit task name, description, icon, and status."
     },
     {
       "content": "Users can delete tasks by selecting `Delete` button."
@@ -18,13 +18,13 @@
       "content": "When users select `Add new task` option, a new task is added with a default name."
     },
     {
-      "content": "Users can edit board name."
+      "content": "Users can edit board name and optionally, users can edit board description as well."
     },
     {
-      "content": "When users first visit the app, a new board with an unique id is created and saved to the database or alternatively a board is created after users make the first change."
+      "content": "When users first visit the app, a new board with a unique id is created and saved to the database or alternatively a board is created after users make the first change."
     },
     {
-      "content": "Each board can be accessed by an unique id, e.g: /board/:board-id"
+      "content": "Each board can be accessed by a unique id, e.g: /board/:board-id"
     },
     {
       "content": "Deploy the solution and submit Repository URL and Demo URL."
