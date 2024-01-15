@@ -3,31 +3,31 @@
     "description": "In this full-stack challenge, you will develop a service to store collections of Unsplash images, allowing users to add Unsplash images to their collections. This project will involve creating a functionality similar to Unsplash's collection feature, providing an opportunity to demonstrate proficiency in full-stack development by enabling users to manage and store curated sets of Unsplash images.",
     "userStories": [
       {
-        "content": "Create a multiple page website following given design."
+        "content": "Create a multiple-page website following the given design."
       },
       {
         "content": "On Homepage, users can search for images from Unsplash given keywords."
       },
       {
-        "content": "On Homepage, when user press enter, a list of of images should be shown as result if at least a keyword is provided."
+        "content": "On Homepage, when user press `Enter`, a list of images should be shown as a result if at least a keyword is provided."
       },
       {
-        "content": "Users can select a image and see its details in a seperate Image page."
+        "content": "Users can select an image and see its details in a separate Image page."
       }, 
       {
-        "content": "On Image page, user can see the author, and published date."
+        "content": "On Image page, users can see the author and published date."
       },
       {
-        "content": "On Image page, users can see list of collections that the image belongs to."
+        "content": "On Image page, users can see a list of collections that the image belongs to."
       },
       {
-        "content": "On Image page, users can choose to add image to a colletion by selecting `Add to Collection` button"
+        "content": "On Image page, users can choose to add the image to a collection by selecting `Add to Collection` button"
       },
       {
-        "content": "When `Add to Collection` button is selected, users can search and add image to searched collections. The collection search result should only show collections that the image does not yet belong to."
+        "content": "When `Add to Collection` button is selected, users can search and add images to searched collections. The collection search result should only show collections that the image does not yet belong to."
       },
       {
-        "content": "On Image page, users can remove image from its collections."
+        "content": "On Image page, users can remove the image from its collections."
       },
       {
         "content": "On Image page, users can download the image."
@@ -36,7 +36,7 @@
         "content": "On Collections page, users can see and select existing collections."
       },
       {
-        "content": "On Collections page, when a collection is selected, users can see list of images in the collection."
+        "content": "On Collections page, when a collection is selected, users can see a list of images in the collection."
       },
       {
         "content": "Deploy the solution and submit Repository URL and Demo URL."
