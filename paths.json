@@ -27,7 +27,7 @@
         "name": "Fullstack Developer",
         "dcid": 4,
         "description": "In this path, you are expected to implement both the front end and the back end of a website. You can build your own backend services with MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or tools like Supabse, Firebase,.. to speed up.",
-        "free": 1,
+        "free": 2,
         "premium": 0,
         "nextChallenge": "in January 2024"
     }
