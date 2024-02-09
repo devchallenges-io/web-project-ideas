@@ -1,0 +1,70 @@
+{
+    "title": "AI Image Generation App",
+    "description": "The challenge is to create a full-stack application that allows users to generate AI images, manage their own collections, and view others' generated images. The fusion of AI and full-stack development opens doors to a future where web applications are more responsive and capable than ever before.",
+    "userStories": [
+      {
+        "content": "Create an Image Generation App according to the design."
+      },
+      {
+        "content": "By default, active tab should be 'Generate Image' page."
+      },
+      {
+        "content": "Users can login with Github or your chosen third party."
+      },
+      {
+        "content": "On Generate Image page, users can enter prompt, enter negative prompt, select a color, select a resolution and change guidance."
+      },
+      {
+        "content": "Given a valid prompt and a logged-in user, they can generate a new image by selecting 'Generate Image' button."
+      },
+      {
+        "content": "On Feed page, users can see list of cards. Each card includes a generated image, author name and a bookmark button."
+      },
+      {
+        "content": "On Feed page, users can search images by keywords. Keywords are from generated prompts."
+      },
+      {
+        "content": "On Feed page, users can save images to their colletion."
+      },
+      {
+        "content": "On Feed page, users can select a card and see the image details."
+      },
+      {
+        "content": "On Image details modal, users can see the generated image, the prompt, the negative prompt, created date, resolution and seed number."
+      },
+      {
+        "content": "On Image details modal, users can copy the settings to generate new image by selecting 'Generate with this settings' button."
+      },
+      {
+        "content": "On Image details modal, users can download the image."
+      },
+      {
+        "content": "On Generation History Page, users can see their generated image history."
+      },
+      {
+        "content": "On My Collection Page, users see the save images."
+      },
+      {
+        "content": "Deploy the solution and submit Repository URL and Demo URL."
+      }
+    ],
+    "text": [
+      { "content": "Enter the prompt" }, 
+      { "content": "Negative Prompt (Optional)" },
+      { "content": "Resolution" },
+      { "content": "Guidance (5.0)" },
+      { "content": "Generate Image" },
+      { "content": "Breathtaking digital art illustration of a celestial galaxy, bursting with vibrant colors and sparkling stars, reminiscent of an infinite cosmic journey" },
+      { "content": "Search images by keywords" },
+      { "content": "Generation History" },
+      { "content": "Prompt details" },
+      { "content": "Negative prompt" },
+      { "content": "Created on" },
+      { "content": "Input Resolution" },
+      { "content": "My Collection" },
+      { "content": "Generate with this settings" },
+      { "content": "Sign In to Continue" },
+      { "content": "Sign in with Github" }
+    ]
+  }
+  
