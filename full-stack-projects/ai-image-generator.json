@@ -6,34 +6,34 @@
         "content": "Create an Image Generation App according to the design."
       },
       {
-        "content": "By default, active tab should be 'Generate Image' page."
+        "content": "By default, the active tab should be 'Generate Image' page."
       },
       {
-        "content": "Users can login with Github or your chosen third party."
+        "content": "Users can log in with Github or your chosen third party."
       },
       {
-        "content": "On Generate Image page, users can enter prompt, enter negative prompt, select a color, select a resolution and change guidance."
+        "content": "On Generate Image page, users can enter a prompt, enter a negative prompt, select a color, select a resolution, and change guidance."
       },
       {
-        "content": "Given a valid prompt and a logged-in user, they can generate a new image by selecting 'Generate Image' button."
+        "content": "Given a valid prompt and a logged-in user, they can generate a new image by selecting the 'Generate Image' button."
       },
       {
-        "content": "On Feed page, users can see list of cards. Each card includes a generated image, author name and a bookmark button."
+        "content": "On Feed page, users can see a list of cards. Each card includes a generated image, author name, and a bookmark button."
       },
       {
         "content": "On Feed page, users can search images by keywords. Keywords are from generated prompts."
       },
       {
-        "content": "On Feed page, users can save images to their colletion."
+        "content": "On Feed page, users can save images to their collection."
       },
       {
         "content": "On Feed page, users can select a card and see the image details."
       },
       {
-        "content": "On Image details modal, users can see the generated image, the prompt, the negative prompt, created date, resolution and seed number."
+        "content": "On Image details modal, users can see the generated image, the prompt, the negative prompt, created date, resolution, and seed number."
       },
       {
-        "content": "On Image details modal, users can copy the settings to generate new image by selecting 'Generate with this settings' button."
+        "content": "On Image details modal, users can copy the settings to generate a new image by selecting the 'Generate with this settings' button."
       },
       {
         "content": "On Image details modal, users can download the image."
@@ -42,7 +42,7 @@
         "content": "On Generation History Page, users can see their generated image history."
       },
       {
-        "content": "On My Collection Page, users see the save images."
+        "content": "On My Collection Page, users see the saved images."
       },
       {
         "content": "Deploy the solution and submit Repository URL and Demo URL."
