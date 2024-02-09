@@ -1,0 +1,94 @@
+{
+    "title": "User Portfolio Management",
+    "description": "In this challenge, you will develop a full-stack application that allows users to sign up and create/manage their developer portfolios. The focus will be on implementing robust user data management, ensuring security, creating dynamically generated pages, and optimizing the app for search engines (SEO).",
+    "userStories": [
+      {
+        "content": "Create an User Portfolio Management App according to the design."
+      },
+      {
+        "content": "By default, users are asked to sign in."
+      },
+      {
+        "content": "On 'Sign In' Page, users can choose login with Github or by email and password."
+      },
+      {
+        "content": "On 'Sign In' Page, users can select 'forgot password' option and be redirected to 'Forgot password' page"
+      },
+      {
+        "content": "On 'Forgot Password' page, user can enter their email and get a the magic link after selecting 'Reset Password' button."
+      },
+      {
+        "content": "When users select the magic link, they are redirected to 'Choose new password' page."
+      },
+      {
+        "content": "On 'Choose new password' page, users can enter new password with the requirements given in the design."
+      },
+      {
+        "content": "Users can sign up with email and password. Optionally, an email with a magic link can be sent to verify the account."
+      },
+      {
+        "content": "On 'Profile setting' page, logged-in users can update their profile image, job title, name and bio."
+      },
+      {
+        "content": "On 'Projects setting' page, logged-in users can add new projects with project name, demo URL, repository URL and description."
+      },
+      {
+        "content": "On 'Projects setting' page, logged-in users can edit added projects."
+      },
+      {
+        "content": "On 'Portfolio' page, users can see the name, job title, bio and the projects."
+      },
+      {
+        "content": "On 'Portfolio' page, others can send user an email by selecting contact button."
+      },
+      {
+        "content": "Deploy the solution and submit Repository URL and Demo URL."
+      }
+    ],
+    "text": [
+      { "content": "Easy Portfolio for Developer" }, 
+      { "content": "As a web developer, having a portfolio is essential for showcasing your technical skills and attracting potential clients. A portfolio is a museum of your work, with past tech stacks, case studies, and your work history." },
+      { "content": "Login to account" },
+      { "content": "Enter your credentials to access your account" },
+      { "content": "Sign in with Github" },
+      { "content": "Enter email" },
+      { "content": "Enter a password" },
+      { "content": "Forgot password" },
+      { "content": "Not a member?" },
+      { "content": "Create an account" },
+      { "content": "Create your account" },
+      { "content": "Enter the fields below to get started" },
+      { "content": "one lower case character" },
+      { "content": "one special character" },
+      { "content": "one uppercase character" },
+      { "content": "8 character minium" },
+      { "content": "one number" },
+      { "content": "Already have an account?  Log in" },
+      { "content": "We’ll email you instructions to reset your password" },
+      { "content": "Back to login" },
+      { "content": "Choose new password" },
+      { "content": "Enter your new password and you’re all set." },
+      { "content": "Re-enter a password" },
+      { "content": "Profile settings" },
+      { "content": "Image must be 256 x 256px - max 2MB" },
+      { "content": "Upload Profile Image" },
+      { "content": "Delete Image" },
+      { "content": "Job title" },
+      { "content": "example@mail.com" },
+      { "content": "Enter your job title" },
+      { "content": "Enter your name" },
+      { "content": "Enter a short introduction.." },
+      { "content": "Projects settings" },
+      { "content": "Add project" },
+      { "content": "Image must be PNG or JPEG - max 2MB" },
+      { "content": "Project Name" },
+      { "content": "Enter your project name" },
+      { "content": "Demo URL" },
+      { "content": "Enter the demo URL" },
+      { "content": "Repository URL" },
+      { "content": "Enter the repository URL" },
+      { "content": "Enter a short description.." },
+      { "content": "A passionate Junior Front-end Developer with extensive experience in HTML, CSS, JavaScript, and React. Proven track record of developing user-friendly interfaces and optimizing website performance. Eager to learn and grow in the tech industry." }
+    ]
+  }
+  
