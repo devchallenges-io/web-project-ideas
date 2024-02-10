@@ -3,7 +3,7 @@
     "description": "In this challenge, you will develop a full-stack application that allows users to sign up and create/manage their developer portfolios. The focus will be on implementing robust user data management, ensuring security, creating dynamically generated pages, and optimizing the app for search engines (SEO).",
     "userStories": [
       {
-        "content": "Create an User Portfolio Management App according to the design."
+        "content": "Create a User Portfolio Management App according to the design."
       },
       {
         "content": "By default, users are asked to sign in."
@@ -12,34 +12,34 @@
         "content": "On 'Sign In' Page, users can choose login with Github or by email and password."
       },
       {
-        "content": "On 'Sign In' Page, users can select 'forgot password' option and be redirected to 'Forgot password' page"
+        "content": "On 'Sign In' Page, users can select the 'forgot password' option and be redirected to the 'Forgot password' page"
       },
       {
-        "content": "On 'Forgot Password' page, user can enter their email and get a the magic link after selecting 'Reset Password' button."
+        "content": "On 'Forgot Password' page, user can enter their email and get a magic link after selecting the 'Reset Password' button."
       },
       {
-        "content": "When users select the magic link, they are redirected to 'Choose new password' page."
+        "content": "When users select the magic link, they are redirected to the 'Choose new password' page."
       },
       {
-        "content": "On 'Choose new password' page, users can enter new password with the requirements given in the design."
+        "content": "On 'Choose new password' page, users can enter a new password with the requirements given in the design."
       },
       {
         "content": "Users can sign up with email and password. Optionally, an email with a magic link can be sent to verify the account."
       },
       {
-        "content": "On 'Profile setting' page, logged-in users can update their profile image, job title, name and bio."
+        "content": "On 'Profile setting' page, logged-in users can update their profile image, job title, name, and bio."
       },
       {
-        "content": "On 'Projects setting' page, logged-in users can add new projects with project name, demo URL, repository URL and description."
+        "content": "On 'Projects setting' page, logged-in users can add new projects with project name, demo URL, repository URL, and description."
       },
       {
         "content": "On 'Projects setting' page, logged-in users can edit added projects."
       },
       {
-        "content": "On 'Portfolio' page, users can see the name, job title, bio and the projects."
+        "content": "On 'Portfolio' page, users can see the name, job title, bio, and the projects."
       },
       {
-        "content": "On 'Portfolio' page, others can send user an email by selecting contact button."
+        "content": "On 'Portfolio' page, others can send the user an email by selecting the contact button."
       },
       {
         "content": "Deploy the solution and submit Repository URL and Demo URL."
@@ -58,15 +58,15 @@
       { "content": "Create an account" },
       { "content": "Create your account" },
       { "content": "Enter the fields below to get started" },
-      { "content": "one lower case character" },
+      { "content": "one lowercase character" },
       { "content": "one special character" },
       { "content": "one uppercase character" },
-      { "content": "8 character minium" },
+      { "content": "8 character minimum" },
       { "content": "one number" },
       { "content": "Already have an account?  Log in" },
       { "content": "We’ll email you instructions to reset your password" },
       { "content": "Back to login" },
-      { "content": "Choose new password" },
+      { "content": "Choose a new password" },
       { "content": "Enter your new password and you’re all set." },
       { "content": "Re-enter a password" },
       { "content": "Profile settings" },
