@@ -5,7 +5,8 @@
         "description": "This path is designed for you to practice HTML, CSS, and basic JavaScript. You can practice with frameworks like Tailwind CSS, Bootstrap,... based on your need.",
         "free": 5,
         "premium": 3,
-        "nextChallenge": null
+        "nextChallenge": null,
+        "slug": "responsive-web-developer"
     },
     {
         "name": "JavaScript Developer",
@@ -13,7 +14,8 @@
         "description": "In this path, it's not yet recommended to use any Frontend libraries like React, but instead, you should practice the fundamentals of JavaScipt like Document Object Model (DOM), Algorithms, Events, and Fetch API,...",
         "free": 5,
         "premium": 2,
-        "nextChallenge": null
+        "nextChallenge": null,
+        "slug": "javascript-developer"
     },
     {
         "name": "Frontend Developer",
@@ -21,7 +23,8 @@
         "description": "This path is the place where you practice popular frameworks that are required in almost every Frontend job like React, Vue.js, and Svelte,...",
         "free": 5,
         "premium": 5,
-        "nextChallenge": null
+        "nextChallenge": null,
+        "slug": "frontend-developer"
     },
     {
         "name": "Fullstack Developer",
@@ -29,6 +32,7 @@
         "description": "In this path, you are expected to implement both the front end and the back end of a website. You can build your own backend services with MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) or tools like Supabse, Firebase,.. to speed up.",
         "free": 4,
         "premium": 2,
-        "nextChallenge": null
+        "nextChallenge": null,
+        "slug": "fullstack-developer"
     }
 ]
