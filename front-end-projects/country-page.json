@@ -43,10 +43,6 @@
       "optional": true
     },
     {
-      "content": "[Optional] The country list is paginated",
-      "optional": true
-    },
-    {
       "content": "Deploy the solution and submit Repository URL and Demo URL."
     }
   ],
